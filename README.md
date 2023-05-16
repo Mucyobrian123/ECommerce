@@ -24,11 +24,10 @@
 
 
 
-## How To Run ?
+## How To Run:
 
 - Pre requirement:- Spring boot Installed in Eclipse IDE ,  mysql Database , xampp 
 
-<img width="169" alt="image" src="https://user-images.githubusercontent.com/81226571/178137583-578558de-ff7e-498b-bb00-927dd46b4fb0.png">
 
 
  (1)
@@ -54,6 +53,7 @@ Right click project and run as spring boot & open:- http://localhost:8080/
 <h4> MVC WorkFlow: </h4>
     → in the Admincontroller.java & userController.java files having a mapping based function which returns file name.<br>
     → in Src->main->webapp->views  following Jsp file will be executing.
+The project has user module and admin module
 
 ## log in 
 ADMIN Module (http://localhost:8080/admin) 
