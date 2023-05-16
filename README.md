@@ -10,9 +10,6 @@
 [![Isses][issues-shield]][issues-url]
 
 -->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 <br>
 
 
@@ -22,8 +19,7 @@
 - ⚙️Spring Mvc, JDBC , Jsp Servlet
 - 📝ADMIN MODULE + USER MODULE
 - ➕CRUD OPERATION
-- 🌱Easy to understand beginner friendly.
-- 🥳Pull Request Welcome (Open Source).
+
 
 
 
@@ -70,8 +66,7 @@ ADMIN Module (http://localhost:8080/admin)
 -  user name:- jay 
 -  password:- 123
 
-## Important link
-- 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘃𝗶𝗱𝗲𝗼 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗗𝗲𝗺𝗼 + 𝘀𝘁𝗲𝗽 𝗯𝘆 𝘀𝘁𝗲𝗽 𝗲𝘅𝗲𝗰𝘂𝘁𝗶𝗼𝗻 𝗹𝗶𝗻𝗸 ::---  [  click here  ](https://youtu.be/c6WWdINWSlI) [![youtube][youtube-shield]][youtube-url]
+
 
 
 ## preview
@@ -81,10 +76,6 @@ ADMIN Module (http://localhost:8080/admin)
 
 
 
-- **Star++** ⭐  if you  find helpful.
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
-<h3 align="left">If you found this valuable and want to return the favour, then</h3>
-<p><a href="https://www.buymeacoffee.com/gajerajay9I"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gajerajay9" /></a></p><br><br>
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/jaygajera17/E-commerce-project-springBoot/graphs/contributors
